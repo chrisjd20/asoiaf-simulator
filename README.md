@@ -51,6 +51,7 @@ To play, visit:
 
 ### Known Issues:
 
+* Loading/Race conditions. There could be minor race conditions where something loads out of order. First try refreshing the page and see if that helps at all. 
 * Cards aren't perfect. Im working on them at https://github.com/chrisjd20/asoiaf_card_generator
 * Translations only apply to EN,FR,DE and only apply to most card images when not specifying english. Otherwise most of the site is only in english.
 * The import feature from TTS needs work. This is because their IDS frot the cmond cards uses historical data from years. Mine is only the most recent. Will have to find some way to fix this.
