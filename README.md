@@ -6,6 +6,10 @@ To play, visit:
 
 [asoiaf-sim.com](http://asoiaf-sim.com/)
 
+### How To Demo Video:
+
+[![Embedded YouTube Video](https://img.youtube.com/vi/0q5gF5QeRR8/0.jpg)](https://www.youtube.com/watch?v=0q5gF5QeRR8)
+
 ### Features:
 
 * 2-player ASOIAF simulation
