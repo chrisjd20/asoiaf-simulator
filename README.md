@@ -46,6 +46,8 @@ To play, visit:
 * Also when selected, you can rotate an object using `Q` to rotate counter-clockwise and `E` to rotate clockwise.
 * When moving/rotating objects, you can hold down `SHIFT` to speed-up the `WASD` or `Q` / `E` rotation.
 * Tape-Measure - Using your mouse, move to the position you want then hold down `T` and drag the mouse. This will allow you to measure what would be in inches.
+* Delete - Select and object and press `Del` to delete
+* Reset Object Position - Select and then deselect a unit and press `R` to reset it to its last position
 
 ### Known Issues:
 
