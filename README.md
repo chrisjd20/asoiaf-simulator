@@ -53,7 +53,7 @@ To play, visit:
 
 * Cards aren't perfect. Im working on them at https://github.com/chrisjd20/asoiaf_card_generator
 * Translations only apply to EN,FR,DE and only apply to most card images when not specifying english. Otherwise most of the site is only in english.
-* More to come im sure.
+* The import feature from TTS needs work. This is because their IDS frot the cmond cards uses historical data from years. Mine is only the most recent. Will have to find some way to fix this.
 
 ### Filing Issues:
 
