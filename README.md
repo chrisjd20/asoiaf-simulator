@@ -6,10 +6,6 @@ To play, visit:
 
 [asoiaf-sim.com](http://asoiaf-sim.com/)
 
-For more information or to report issues go to:
-
-[github.com/chrisjd20/asoiaf-simulator](https://github.com/chrisjd20/asoiaf-simulator)
-
 ### Features:
 
 * 2-player ASOIAF simulation
