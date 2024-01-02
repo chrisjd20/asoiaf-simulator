@@ -108,4 +108,5 @@ Please feel free to file any issues you may experiencing here in this github rep
 - [ ] Better logic for initally placement of units/ncus/attachements (and their cards) during creation
 - [ ] Object Position History will be serverside instead of only client side
 - [ ] Add SSL/TLS Certificate for HTTPS
+- [ ] More mobile friendly version?
 
