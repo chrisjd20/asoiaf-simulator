@@ -10,6 +10,14 @@ To play, visit:
 
 [![Embedded YouTube Video](https://img.youtube.com/vi/0q5gF5QeRR8/0.jpg)](https://www.youtube.com/watch?v=0q5gF5QeRR8)
 
+**Simulated Tabletop:**
+
+![interface1 min](https://github.com/chrisjd20/asoiaf-simulator/assets/11812223/afbf89af-cddf-483c-80cf-be59adddf716)
+
+**Simulated Cards/Dice User Interface:**
+
+![interface2 min](https://github.com/chrisjd20/asoiaf-simulator/assets/11812223/8ec6c5fe-73ab-46d1-ac30-a92f1611ddda)
+
 ### Features:
 
 * 2-player ASOIAF simulation
