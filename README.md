@@ -114,10 +114,10 @@ Please feel free to file any issues you may experiencing here in this github rep
 - [x] straight arrows coming off trays to show movement
 - [x] Toggle All Units Ranges/Graphics
 - [x] Create landing page
-- [x] Help/How To finished (with how to video perhaps?)
+- [x] Help/How To finished (with how to video perhaps?)'
 - [ ] Add additional terrain
+- [ ] Revert AND Redo history for objects. Object Position History will be serverside instead of only client side
 - [ ] Better logic for initally placement of units/ncus/attachements (and their cards) during creation
-- [ ] Object Position History will be serverside instead of only client side
 - [ ] Add SSL/TLS Certificate for HTTPS
 - [ ] More mobile friendly version?
 
