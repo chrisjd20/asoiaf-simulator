@@ -22,7 +22,7 @@ To play, visit:
 
 * 2-player ASOIAF simulation
 * Unit Creation/Movement - create ASOIAF Units/Attachments/NCUs with movement controls
-* Unit movement history - Press the `r` button to have a unit revert to it's last position.
+* Unit movement history - Press the `r` button to have a unit revert to it's last position. or `f` to go forward in position.
 * Units have short-range, long-range and line of sight arcs built-in.
 * Tactics board - with turn token and player turn throne token.
 * Battlemaps - Currently we have 8 battlemaps that you can select from. (battlemaps are not synced between players so you can set to whatever you want on your side)
@@ -30,7 +30,7 @@ To play, visit:
 * Mission Cards - Mission cards deck built-in
 * Tactics Cards/Deck selection.
 * Dice - Builtin dice system for a max of 20x D6 dice. The first dice (in gold border) can be used to represent a D3.
-* Dice - Dice history
+* Dice - Dice history ( can go back 20 dice states or forward )
 * Tape-Measures - automatic tape measures on units. You can also trigger a manual tape measure by holding down `T` key.
 * Cards - All Units/Tactics/NCU/Attachment/etc... cards built-in.
 * EN, FR, DE translations for data cards.
@@ -55,7 +55,8 @@ To play, visit:
 * When moving/rotating objects, you can hold down `SHIFT` to speed-up the `WASD` or `Q` / `E` rotation.
 * Tape-Measure - Using your mouse, move to the position you want then hold down `T` and drag the mouse. This will allow you to measure what would be in inches.
 * Delete - Select and object and press `Del` to delete
-* Reset Object Position - Select and then deselect a unit and press `R` to reset it to its last position
+* Reset Object Position - Select a unit and press `R` to reset it to its last position
+* Redo Object Position - Select a unit and press `F` to move them forward (i.e. undo the reset)
 
 ### Known Issues:
 
