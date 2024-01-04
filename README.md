@@ -1,6 +1,6 @@
 ### What Is ASOIAF-Simulator?
 
-ASOIAF-Simulator is a no-cost, web-based, fan-created simulator that leverages Phaser JS to emulate the [A Song of Ice and Fire](https://cmon.com/product/a-song-of-ice-fire-tmg) tabletop miniature game (made by [CMON](https://asoiaf.cmon.com/)), in a vivid 2D environment.
+ASOIAF-Simulator is a no-cost, web-based, fan-created simulator that leverages Phaser JS to emulate the [A Song of Ice and Fire](https://cmon.com/product/a-song-of-ice-fire-tmg) tabletop miniature game (made by [CMON](https://asoiaf.cmon.com/)), in a vivid 2D environment. Let's be honest, we play tabletop games cause playing with friends in real life is the best and no simulator can capture that fully. But I live remote and getting a game in in real life is an hour drive for me (which isnt always easy to do). So this is designed for those who can't game as often in real life (and to be easy to access). In short, this is designed to be easy to use and to suppliment the ASOIAF miniatures game and support the hobby!
 
 To play, visit:
 
