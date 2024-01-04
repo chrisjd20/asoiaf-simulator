@@ -116,9 +116,15 @@ Please feel free to file any issues you may experiencing here in this github rep
 - [x] Toggle All Units Ranges/Graphics
 - [x] Create landing page
 - [x] Help/How To finished (with how to video perhaps?)'
-- [ ] Add additional terrain
+- [ ] Add additional terrain (with different themes)
+- [ ] Logout to allow another to connect to the same room (right now soon as 2 people join its permanent for taht room)
 - [ ] Revert AND Redo history for objects. Object Position History will be serverside instead of only client side
 - [ ] Better logic for initally placement of units/ncus/attachements (and their cards) during creation
 - [ ] Add SSL/TLS Certificate for HTTPS
+- [ ] More toasts/messages describing whats going on
+- [ ] more verbose logging
+- [ ] Victory Points Built into interface
+- [ ] Q/E rotation UI buttons so keyboard is not required to rotate objects.
+- [ ] prevent roll if animate
 - [ ] More mobile friendly version?
 
