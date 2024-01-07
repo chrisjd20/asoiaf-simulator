@@ -8,7 +8,7 @@ To play, visit:
 
 ## How to support:
 
-Paying for the server costs out of my own pocket and I hope to have one server in EU and US. So any help is appreciated if you can:
+Paying for the server costs out of my own pocket and I hope to have one server in EU and US. So any help is appreciated if you can on patreon.
 
 [patreon](patreon.com/user?u=112966643)
 
