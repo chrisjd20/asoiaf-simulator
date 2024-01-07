@@ -6,6 +6,12 @@ To play, visit:
 
 [asoiaf-sim.com](http://asoiaf-sim.com/)
 
+## How to support:
+
+Paying for the server costs out of my own pocket and I hope to have one server in EU and US. So any help is appreciated if you can:
+
+[patreon](patreon.com/user?u=112966643)
+
 ### How To Demo Video:
 
 [![Embedded YouTube Video](https://img.youtube.com/vi/0q5gF5QeRR8/0.jpg)](https://www.youtube.com/watch?v=0q5gF5QeRR8)
