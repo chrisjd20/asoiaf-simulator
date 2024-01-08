@@ -6,12 +6,6 @@ To play, visit:
 
 [asoiaf-sim.com](http://asoiaf-sim.com/)
 
-## How to support:
-
-Paying for the server costs out of my own pocket and I hope to have one server in EU and US. So any help is appreciated if you can on patreon.
-
-[patreon](https://patreon.com/user?u=112966643)
-
 ### How To Demo Video:
 
 [![Embedded YouTube Video](https://img.youtube.com/vi/rSrAXhWo7vQ/0.jpg)](https://www.youtube.com/watch?v=rSrAXhWo7vQ)
@@ -64,6 +58,13 @@ Paying for the server costs out of my own pocket and I hope to have one server i
 * Delete - Select and object and press `Del` to delete
 * Reset Object Position - Select a unit and press `R` to reset it to its last position
 * Redo Object Position - Select a unit and press `F` to move them forward (i.e. undo the reset)
+
+
+## How to support:
+
+Paying for the server costs out of my own pocket and I hope to have one server in EU and US. So any help is appreciated if you can on patreon.
+
+[patreon](https://patreon.com/user?u=112966643)
 
 ### Known Issues:
 
