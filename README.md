@@ -14,7 +14,8 @@ Paying for the server costs out of my own pocket and I hope to have one server i
 
 ### How To Demo Video:
 
-[![Embedded YouTube Video](https://img.youtube.com/vi/0q5gF5QeRR8/0.jpg)](https://www.youtube.com/watch?v=0q5gF5QeRR8)
+[![Embedded YouTube Video](https://img.youtube.com/vi/rSrAXhWo7vQ/0.jpg)](https://www.youtube.com/watch?v=rSrAXhWo7vQ)
+
 
 **Simulated Tabletop:**
 
