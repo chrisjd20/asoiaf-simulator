@@ -73,6 +73,11 @@ Paying for the server costs out of my own pocket and I hope to have one server i
 * Translations only apply to EN,FR,DE and only apply to most card images when not specifying english. Otherwise most of the site is only in english.
 * The import feature from TTS needs work. This is because their IDS frot the cmond cards uses historical data from years. Mine is only the most recent. Will have to find some way to fix this.
 
+### Troubleshooting:
+
+* Clear sites browser cache [https://support.breezechms.com/hc/en-us/articles/4402756658839-Google-Chrome-Clearing-Cache-and-Cookies-for-Specific-Sites](https://support.breezechms.com/hc/en-us/articles/4402756658839-Google-Chrome-Clearing-Cache-and-Cookies-for-Specific-Sites)
+* Refresh the screen.
+
 ### Filing Issues:
 
 Please feel free to file any issues you may experiencing here in this github repo. For bugs or issues, it will help if you include screenshots and perhaps any javascript errors that you may experience. On Chrome you can open the developer tools to the javascript console by:
