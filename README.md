@@ -75,6 +75,9 @@ Paying for the server costs out of my own pocket and I hope to have one server i
 
 ### Troubleshooting:
 
+* Clear cache first way:
+![image](https://github.com/chrisjd20/asoiaf-simulator/assets/11812223/ac505a07-b40b-46d4-a212-f412ac124ea8)
+
 * Clear sites browser cache [https://support.breezechms.com/hc/en-us/articles/4402756658839-Google-Chrome-Clearing-Cache-and-Cookies-for-Specific-Sites](https://support.breezechms.com/hc/en-us/articles/4402756658839-Google-Chrome-Clearing-Cache-and-Cookies-for-Specific-Sites)
 * Refresh the screen.
 
