@@ -136,23 +136,23 @@ Please feel free to file any issues you may experiencing here in this github rep
 - [x] Object Lock/Unlock system
 - [x] Right-Click Menu on objects
 - [x] UI delete/rotate/lock obj buttons
-- [ ] Unit/Tray snapping into place system (magnetic attraction)
-- [ ] Add additional terrain (with different themes)
-- [ ] Logout to allow another to connect to the same room (right now soon as 2 people join its permanent for taht room)
-- [ ] Better logic for initally placement of units/ncus/attachements (and their cards) during creation
-- [ ] Add SSL/TLS Certificate for HTTPS
-- [ ] More toasts/messages describing whats going on
-- [ ] more verbose logging
-- [ ] Fix/Improve button animations (lock)
-- [ ] Battle Modes Also unset last battle mode stuff
-- [ ] In-sim D3 (Improve D3 System) Current is one in gold border
-- [ ] cache version checker (tells players they need to clear site cache if outdated
-- [ ] French é accent omitted from translation on cards
-- [ ] game mode deployment zone display/grid
-- [ ] UI expand buttom On right and left when Card/Dice UI opens
-- [ ] Tactics Card on bottom of tactics deck
-- [ ] Num of cards in tactics deck displays
-- [ ] Display special rules on scenery
-- [ ] Have objective attach and follow attached unit?
+- [x] Unit/Tray snapping into place system (magnetic attraction)
+- [x] Add additional terrain (with different themes)
+- [x] Logout to allow another to connect to the same room (right now soon as 2 people join its permanent for taht room)
+- [x] Better logic for initally placement of units/ncus/attachements (and their cards) during creation
+- [x] Add SSL/TLS Certificate for HTTPS
+- [x] More toasts/messages describing whats going on
+- [x] more verbose logging
+- [x] Fix/Improve button animations (lock)
+- [x] Battle Modes Also unset last battle mode stuff
+- [x] In-sim D3 (Improve D3 System) Current is one in gold border
+- [x] cache version checker (tells players they need to clear site cache if outdated
+- [x] French é accent omitted from translation on cards
+- [x] game mode deployment zone display/grid
+- [x] UI expand buttom On right and left when Card/Dice UI opens
+- [x] Tactics Card on bottom of tactics deck
+- [x] Num of cards in tactics deck displays
+- [x] Display special rules on scenery
+- [x] Have objective attach and follow attached unit?
 - [ ] More mobile friendly version?
 
