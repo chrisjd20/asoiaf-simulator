@@ -80,6 +80,7 @@ Paying for the server costs out of my own pocket and I hope to have one server i
 ![image](https://github.com/chrisjd20/asoiaf-simulator/assets/11812223/ac505a07-b40b-46d4-a212-f412ac124ea8)
 
 * Refresh the screen.
+* We have heard reports the NORD VPN/Security products have blocked connections. Try turning off securtiy products or vpns. 
 
 ### Filing Issues:
 
