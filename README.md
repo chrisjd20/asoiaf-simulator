@@ -75,6 +75,7 @@ Paying for the server costs out of my own pocket and I hope to have one server i
 
 ### Troubleshooting:
 
+* Refresh once first. If still problems then try next step.
 * Clear cache first way:
   
 ![image](https://github.com/chrisjd20/asoiaf-simulator/assets/11812223/ac505a07-b40b-46d4-a212-f412ac124ea8)
