@@ -13,7 +13,7 @@ To play, visit:
 
 **Simulated Tabletop:**
 
-![interface1 min](https://github.com/chrisjd20/asoiaf-simulator/assets/11812223/afbf89af-cddf-483c-80cf-be59adddf716)
+![image](https://github.com/chrisjd20/asoiaf-simulator/assets/11812223/4e773d3e-dcba-420d-a1f9-d250870a916e)
 
 **Simulated Cards/Dice User Interface:**
 
