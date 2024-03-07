@@ -64,7 +64,7 @@ To play, visit:
 
 Paying for the server costs out of my own pocket and I hope to have one server in EU and US. So any help is appreciated if you can on patreon.
 
-[patreon](https://patreon.com/user?u=112966643)
+[patreon]( https://patreon.com/asoiafsim )
 
 ### Known Issues:
 
