@@ -8,7 +8,7 @@ To play, visit:
 
 ### How To Demo Video:
 
-[![Embedded YouTube Video](https://youtu.be/uPcAbNgqd1U)](https://youtu.be/uPcAbNgqd1U)
+[![Embedded YouTube Video](https://www.youtube.com/watch?v=uPcAbNgqd1U)](https://www.youtube.com/watch?v=uPcAbNgqd1U)
 
 
 **Simulated Tabletop:**
