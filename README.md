@@ -8,7 +8,7 @@ To play, visit:
 
 ### How To Demo Video:
 
-[![Embedded YouTube Video](https://www.youtube.com/watch?v=uPcAbNgqd1U)](https://www.youtube.com/watch?v=uPcAbNgqd1U)
+[![alt text](https://img.youtube.com/vi/uPcAbNgqd1U/0.jpg)](https://www.youtube.com/watch?v=uPcAbNgqd1U)
 
 
 **Simulated Tabletop:**
@@ -86,6 +86,8 @@ Paying for the server costs out of my own pocket and I hope to have one server i
 ### Filing Issues:
 
 Please feel free to file any issues you may experiencing here in this github repo. For bugs or issues, it will help if you include screenshots and perhaps any javascript errors that you may experience. On Chrome you can open the developer tools to the javascript console by:
+
+![image](https://github.com/chrisjd20/asoiaf-simulator/assets/11812223/6c9cb9a4-5666-438e-94fa-15a596202208)
 
 1. **Open Google Chrome**: Start by opening your Google Chrome browser.
 
